@@ -21,24 +21,5 @@ Each folder below corresponds to one of the 12 courses in the certificate progra
 
 > 📌 Each course folder will contain assignment notebooks, project files, and notes.
 
----
 
-### 3. **Add a README for Course 1**
-Navigate to the folder for **Course 1**, and inside it create or edit a file called `README.md`.
-
-Example content:
-```markdown
-# Course 1: What is Data Science?
-
-## ✅ Course Overview
-This course introduces the basics of data science, the role of data scientists, and real-world applications across industries.
-
-## 📘 What I Learned
-- Definitions and roles in data science
-- Key skills and tools used by data scientists
-- Examples of data science in action
-
-## 🧠 Completed Work
-- Peer-reviewed assignment: Data Science definition and perspective
-- Quiz completions and video notes
 
