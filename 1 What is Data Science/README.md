@@ -21,6 +21,4 @@ An overall understanding of what data science is, and why it is changing the way
 
 [![Course Badge](badge.png)](certificate.pdf)
 
-[📄 View Certificate (PDF)](certificate.pdf)
-
-
+[![View Certificate](certificate.png)](https://www.coursera.org/account/accomplishments/verify/OBECHFEE98FP)
