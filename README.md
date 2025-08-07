@@ -1,4 +1,3 @@
-# IBM-Data-Science-Professional-Certificate
 # IBM Data Science Professional Certificate
 
 This repository contains coursework, notes, and completed assignments from the **IBM Data Science Professional Certificate** on Coursera.
