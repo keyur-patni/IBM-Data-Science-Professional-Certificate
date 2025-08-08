@@ -18,3 +18,5 @@ This course provided an overview of popular tools used in data science, includin
 
 ## 🧪 Final Assignment
 
+[Final Assignment: Data Science Ecosystem](../2%20Tools%20for%20Data%20Science/Data%20Science%20Ecosystem.ipynb)
+
