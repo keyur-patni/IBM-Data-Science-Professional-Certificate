@@ -22,6 +22,7 @@ RStudio is an integrated development environment (IDE) designed specifically for
 
 
 ## ✅ Summary
+
 This course provided an overview of popular tools used in data science, including open-source tools, cloud-based services, and integrated development environments (IDEs). It also introduced Jupyter Notebooks and covered essential skills for navigating and working within them.
 
 ---
