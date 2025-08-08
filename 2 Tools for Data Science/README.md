@@ -7,9 +7,12 @@ This course provided an overview of popular tools used in data science, includin
 
 ## 📂 Small Assignments
 
-- [Getting Started with Jupyter Notebooks](./02_Tools_for_Data_Science/Getting_Started_with_Jupyter_Notebooks.ipynb)
-- [Using Markdown in Jupyter Notebooks](./02_Tools_for_Data_Science/Using_Markdown_in_Jupyter_Notebooks.ipynb)
-- [Working with Files in Jupyter Notebooks](./02_Tools_for_Data_Science/Working_with_Files_in_Jupyter_Notebooks.ipynb)
+[Getting Started with Jupyter Notebooks](../2%20Tools%20for%20Data%20Science/Getting%20Started%20with%20Jupyter%20Notebooks.ipynb)
+
+[Using Markdown in Jupyter Notebooks](../2%20Tools%20for%20Data%20Science/Using%20Markdown%20in%20Jupyter%20Notebooks.ipynb)
+
+[Working with Files in Jupyter Notebooks](../2%20Tools%20for%20Data%20Science/Working%20with%20Files%20in%20Jupyter%20Notebooks.ipynb)
+
 
 ---
 
