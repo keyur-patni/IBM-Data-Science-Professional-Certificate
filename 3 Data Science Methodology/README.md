@@ -51,6 +51,13 @@ The refined model must be redeployed.
 
 This process should be repeated as often as necessary.
 
+## 📂 Small Assignments in this Course
+
+- [From Problem to Approach](From%20Problem%20to%20Approach.ipynb)
+- [From Requirements to Collection](From%20Requirements%20to%20Collection.ipynb)
+- [From Understanding to Preparation](From%20Understanding%20to%20Preparation.ipynb)
+- [From Modeling to Evaluation](From%20Modeling%20to%20Evaluation.ipynb)
+
 
 ## 🏆 Certificate & Badge
 
