@@ -1,5 +1,14 @@
-
 # Python Lists & Tuples Cheatsheet
+
+## Table of Contents
+- [Lists](#lists)  
+  - [Creating a List](#creating-a-list)  
+  - [Accessing List Elements](#accessing-list-elements)  
+- [Tuples](#tuples)  
+  - [Creating a Tuple](#creating-a-tuple)  
+  - [Accessing Tuple Elements](#accessing-tuple-elements)  
+
+---
 
 ## Lists
 
@@ -13,6 +22,7 @@ my_list = []
 
 # List with elements
 my_list = [1, 2, 3, 4, 5]
+
 
 Accessing List Elements
 
