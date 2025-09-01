@@ -68,9 +68,9 @@ min(numbers)         # Smallest element
 sum(numbers)         # Sum of elements
 
 
-Tuples
+## Tuples
 
-A tuple is a collection which is ordered and unchangeable.
+A **tuple** is a collection which is ordered and unchangeable.
 Tuples are defined using parentheses ().
 
 Creating a Tuple
