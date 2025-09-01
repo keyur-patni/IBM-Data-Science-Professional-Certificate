@@ -59,6 +59,7 @@ sum(numbers)         # Sum of elements
 
 
 Tuples
+
 A tuple is a collection which is ordered and unchangeable.
 Tuples are defined using parentheses ().
 
