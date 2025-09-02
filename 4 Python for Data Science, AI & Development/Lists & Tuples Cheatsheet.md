@@ -1,4 +1,4 @@
-# Python Data Structures Cheatsheet
+# List & Tuples Cheatsheet
 
 ## Table of Contents
 - [Lists](#lists)  
