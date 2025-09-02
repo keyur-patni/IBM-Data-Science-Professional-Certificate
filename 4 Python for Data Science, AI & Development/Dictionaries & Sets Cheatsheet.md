@@ -12,9 +12,8 @@
   - [Updating a Set](#updating-a-set)  
   - [Set Methods](#set-methods)  
 
-## ```markdown
-Dictionary
-```
+
+## Dictionary
 
 ## Creating a Dictionary
 A dictionary is a built-in data type that represents a collection of key-value pairs. Dictionaries are enclosed in curly braces {}.
