@@ -1,4 +1,4 @@
-# List & Tuples Cheatsheet
+# Lists & Tuples Cheatsheet
 
 ## Table of Contents
 - [Lists](#lists)  
