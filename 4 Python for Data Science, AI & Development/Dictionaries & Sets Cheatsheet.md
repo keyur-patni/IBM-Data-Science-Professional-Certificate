@@ -114,9 +114,9 @@ items_list = list(dict_name.items())
 **Example**:
 info = list(person.items())
 
-## ```markdown
-Sets
-```
+
+## Sets
+
 ## Add()
 Elements can be added to a set using the `add()` method. Duplicates are automatically removed, as sets only store unique values.
 
