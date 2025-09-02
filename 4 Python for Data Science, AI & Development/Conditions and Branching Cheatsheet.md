@@ -52,7 +52,7 @@ elif age >= 18:
 else:
     print("Sorry, you cannot do either.")
 
-### Real-life example: Automated Teller Machine (ATM)
+#### Real-life example: Automated Teller Machine (ATM)
 When a user interacts with an ATM, the software in the ATM can use branching to make decisions based on the user's input. For example, if the user selects "Withdraw Cash" the ATM can branch into different denominations of bills to dispense based on the amount requested.
 
 user_choice = "Withdraw Cash"
