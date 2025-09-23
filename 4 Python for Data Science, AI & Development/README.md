@@ -1,6 +1,6 @@
 ## Python for Data Science, AI & Development
 
-Test push after GitHub username update – Sept 2025
+Test push GitHub username update – Sept 2025
 
 
 
